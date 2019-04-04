@@ -1,0 +1,8 @@
+{
+  "title": "开门见JavaScript",
+  "author": "辛培铖",
+  "description": "从0到1重新学习JavaScript",
+  "language": "zh-hans",
+  "root": ".",
+  "plugins": ["mermaid"]
+}
