@@ -1,0 +1,27 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add gitbok-plugin-mermaid
+
+PATH: 
+  C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\Java\jdk1.8.0_181\jre\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\TortoiseSVN\bin;E:\app\Git\cmd;C:\Users\32183\AppData\Local\Programs\Python\Python36;C:\Program Files (x86)\Yarn\bin\;C:\Users\32183\AppData\Local\Programs\Python\Python36\Scripts;C:\Program Files (x86)\Android\android-sdk;E:\app\mysql\mysql-8.0.12-winx64\bin;C:\Program Files\Redis\;E:\app\OpenSSH\bin;C:\Program Files\nodejs\;C:\Users\32183\AppData\Local\Microsoft\WindowsApps;C:\Users\32183\AppData\Local\Yarn\bin;E:\app\Fiddler;C:\Users\32183\AppData\Local\atom\bin;E:\android\android-sdk-windows\platform-tools;E:\app\mitmproxy\bin;E:\app\Microsoft VS Code\bin;C:\Users\32183\AppData\Roaming\npm
+
+Yarn version: 
+  1.9.4
+
+Node version: 
+  10.15.3
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND registry.npm.taobao.org registry.npm.taobao.org:443
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:56:26)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
